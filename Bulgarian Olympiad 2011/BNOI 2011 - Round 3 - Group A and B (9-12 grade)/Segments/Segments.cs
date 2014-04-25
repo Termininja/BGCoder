@@ -9,17 +9,19 @@ class Segments
     static void Main()
     {
         // Input
-        string[] input = Console.ReadLine().Split(' ');
+        string input = Console.ReadLine();
+        while (input.IndexOf("  ") > 0) input = input.Replace("  ", " ");
+        string[] str = input.Split(' ');
 
         // The number of the segments
-        int n = int.Parse(input[0]);
+        int n = (str.Length != 1) ? int.Parse(str[0]) : 0;
 
         // End point coordinates for each segment
         for (int i = 0; i < n; i++)
         {
             S.Add(new int[,] {
-                { int.Parse(input[4 * i + 1]), int.Parse(input[4 * i + 2]) },
-                { int.Parse(input[4 * i + 3]), int.Parse(input[4 * i + 4]) }
+                { int.Parse(str[4 * i + 1]), int.Parse(str[4 * i + 2]) },
+                { int.Parse(str[4 * i + 3]), int.Parse(str[4 * i + 4]) }
             });
         }
 
