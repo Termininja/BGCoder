@@ -11,14 +11,14 @@ function solve(args) {
 
     for (var i = 0; i < n - 1; i++) {
         for (var j = i + 1; j < n; j++) {
-            SegmentIntersecttions(S[i][0][0], S[i][0][1], S[j][0][0], S[j][0][1]);
-            SegmentIntersecttions(S[i][0][0], S[i][0][1], S[j][1][0], S[j][1][1]);
-            SegmentIntersecttions(S[i][1][0], S[i][1][1], S[j][0][0], S[j][0][1]);
-            SegmentIntersecttions(S[i][1][0], S[i][1][1], S[j][1][0], S[j][1][1]);
+            SegmentIntersections(S[i][0][0], S[i][0][1], S[j][0][0], S[j][0][1]);
+            SegmentIntersections(S[i][0][0], S[i][0][1], S[j][1][0], S[j][1][1]);
+            SegmentIntersections(S[i][1][0], S[i][1][1], S[j][0][0], S[j][0][1]);
+            SegmentIntersections(S[i][1][0], S[i][1][1], S[j][1][0], S[j][1][1]);
         }
     }
 
-    function SegmentIntersecttions(x1, y1, x2, y2) {
+    function SegmentIntersections(x1, y1, x2, y2) {
         y1 -= (1000 + x1) * (y2 - y1) / (x2 - x1);
         x1 = -1000;
         y2 -= ((1000 - x2) * (y1 - y2) / (x2 - x1));

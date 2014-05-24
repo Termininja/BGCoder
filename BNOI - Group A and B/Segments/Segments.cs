@@ -31,10 +31,10 @@ class Segments
             for (int j = i + 1; j < S.Count; j++)
             {
                 // Find all possible intersections
-                SegmentIntersecttions(S[i][0, 0], S[i][0, 1], S[j][0, 0], S[j][0, 1]);
-                SegmentIntersecttions(S[i][0, 0], S[i][0, 1], S[j][1, 0], S[j][1, 1]);
-                SegmentIntersecttions(S[i][1, 0], S[i][1, 1], S[j][0, 0], S[j][0, 1]);
-                SegmentIntersecttions(S[i][1, 0], S[i][1, 1], S[j][1, 0], S[j][1, 1]);
+                SegmentIntersections(S[i][0, 0], S[i][0, 1], S[j][0, 0], S[j][0, 1]);
+                SegmentIntersections(S[i][0, 0], S[i][0, 1], S[j][1, 0], S[j][1, 1]);
+                SegmentIntersections(S[i][1, 0], S[i][1, 1], S[j][0, 0], S[j][0, 1]);
+                SegmentIntersections(S[i][1, 0], S[i][1, 1], S[j][1, 0], S[j][1, 1]);
             }
         }
 
@@ -43,7 +43,7 @@ class Segments
     }
 
     // Find all segment intersections
-    static void SegmentIntersecttions(float x1, float y1, float x2, float y2)
+    static void SegmentIntersections(float x1, float y1, float x2, float y2)
     {
         // Expand the coordinates of the segment
         y1 -= (1000 + x1) * (y2 - y1) / (x2 - x1);
@@ -57,7 +57,7 @@ class Segments
             float a = (s[0, 0] - x1) * (y2 - y1) - (s[0, 1] - y1) * (x2 - x1);
             float b = 1f / ((x2 - x1) * (s[1, 1] - s[0, 1]) - (y2 - y1) * (s[1, 0] - s[0, 0]));
             if ((a == 0f) ?
-                ((s[0, 0] - x1 < 0f) != (s[0, 0] - x2 < 0f))  :
+                ((s[0, 0] - x1 < 0f) != (s[0, 0] - x2 < 0f)) :
                 (a * b >= 0f) && (a * b <= 1f)) count++;
         }
 
