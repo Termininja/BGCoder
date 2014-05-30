@@ -1,6 +1,6 @@
 using System;
 
-class Lucky
+class LuckyTicket
 {
     static void Main()
     {

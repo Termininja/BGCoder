@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-class Message
+class HiddenMessages
 {
     static void Main()
     {

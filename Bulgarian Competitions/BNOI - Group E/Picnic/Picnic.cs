@@ -1,6 +1,6 @@
 using System;
 
-class Piknik
+class Picnic
 {
     static void Main()
     {
