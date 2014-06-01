@@ -32,7 +32,7 @@ class Laziness
             result.Append(numbers[i++] + " ");
         }
 
-        result.Append(end + " ");
+        result.Append(end);
         Console.WriteLine(result.ToString().Trim());
     }
 }
