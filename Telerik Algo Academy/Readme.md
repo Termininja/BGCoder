@@ -100,7 +100,7 @@ Telerik Algo Academy
 ##Telerik Algo Academy 2013/2014
 
 ####Telerik Algo Academy @ October 2013
-01. [Laziness]()
+01. [Laziness]() (100/100) ✔
 02. [Горо]()
 03. [Алгограми]()
 04. [Корен]()
