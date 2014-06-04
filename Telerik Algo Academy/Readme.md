@@ -101,16 +101,16 @@ Telerik Algo Academy
 
 ####Telerik Algo Academy @ October 2013
 01. [Laziness]() (100/100) ✔
-02. [Горо]()
-03. [Алгограми]()
+02. [Goro]() (100/100) ✔
+03. [Algograms]() (100/100) ✔
 04. [Cube Root]() (100/100) ✔
-05. [Сито]()
+05. [Sieve Of Eratosthenes]() (100/100) ✔
 06. [Игли]()
 07. [Прецизност]()
 08. [Table]()
 09. [Cookie]()
 
-0####Telerik Algo Academy @ November 2013
+####Telerik Algo Academy @ November 2013
 01. [Бутане]()
 02. [Вземи паричка]()
 03. [Дартс антика]()
@@ -120,7 +120,7 @@ Telerik Algo Academy
 07. [Наместване]()
 08. [Четностване]()
 
-0####Telerik Algo Academy @ January 2014
+####Telerik Algo Academy @ January 2014
 01. [Test]() (100/100) ✔
 02. [Tomcats]() (100/100) ✔
 03. [Грип]()
@@ -129,7 +129,7 @@ Telerik Algo Academy
 06. [Пак ли]()
 07. [Guess the Name]()
 
-0####Telerik Algo Academy @ February 2014 (Dynamic Programming)
+####Telerik Algo Academy @ February 2014 (Dynamic Programming)
 01. [Quadronacci]() (100/100) ✔
 02. [DogeCoin]()
 03. [Food]()
