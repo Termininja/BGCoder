@@ -4,83 +4,109 @@ Bulgarian Olympiad
 ##Bulgarian Olympiad 2011
 
 ####BNOI 2011 - Round 3 - Group A and B (9-12 grade)
- * А1. [Segments]() (100/100) ✔
- * А2. [ЛАБИРИНТ]()
- * А3. [ФУКУШИМА]()
- * А4. [ЩАСТЛИВОТО МЕЧЕ]()
- * А5. [МЕДИАНИ]()
- * А6. [ЕЗЕРА]()
- * А7. [ЖАБА]()
- * А8. [ЧАСТИЦИ]()
+ * 01. [Segments](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20A%20and%20B/Segments) (100/100) ✔
+ * 02. [Labyrinth]
+ * 03. [Fukushima]
+ * 04. [Happy Whelp]
+ * 05. [Medians]
+ * 06. [Lakes]
+ * 07. [Frog]
+ * 08. [Particles]
 
 ####BNOI 2011 - Round 3 - Group C (7-8 grade) 
- * C1. [Clock]() (100/100) ✔
- * C2. [ДРОБИ]()
- * C3. [ТРИЪГЪЛНИЦИ]()
- * C4. [ПРАВОЪГЪЛНИК]()
- * C5. [ЗАРЕЖДАНЕ С ГОРИВО]()
- * C6. [СИСТЕМНИ АДМИНИСТРАТОРИ]()
+ * 01. [Clock](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20C/Clock) (100/100) ✔
+ * 02. [Fractions]
+ * 03. [Triangles]
+ * 04. [Rectangles]
+ * 05. [ЗАРЕЖДАНЕ С ГОРИВО]
+ * 06. [System Administrators]
 
 ####BNOI 2011 - Round 3 - Group D (6 grade)
- * D1. [Right Word]() (100/100) ✔
- * D2. [ШИФЪР]()
- * D3. [ЛОТАРИЯ]()
- * D4. [Points]() (100/100) ✔
- * D5. [Triangle Of Numbers]() (100/100) ✔
- * D6. [СУПЕР ПРОСТИ]()
+ * 01. [Right Word](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20D/Right%20Word) (100/100) ✔
+ * 02. [Cipher]
+ * 03. [Lottery]
+ * 04. [Points](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20D/Points) (100/100) ✔
+ * 05. [Triangle Of Numbers](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20D/Triangle%20Of%20Numbers) (100/100) ✔
+ * 06. [СУПЕР ПРОСТИ]
 
 ####BNOI 2011 - Round 3 - Group E (4-5 grade)
- * Е1. [House]() (100/100) ✔
- * Е2. [Radars]() (100/100) ✔
- * Е3. [Hidden Messages]() (100/100) ✔
- * Е4. [Words]() (100/100) ✔
- * Е5. [Cubes]() (100/100) ✔
- * Е6. [Palendrom Time]() (100/100) ✔
+ * 01. [House](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20E/House) (100/100) ✔
+ * 02. [Radars](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20E/Radars) (100/100) ✔
+ * 03. [Hidden Messages](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20E/Hidden%20Messages) (100/100) ✔
+ * 04. [Words](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20E/Words) (100/100) ✔
+ * 05. [Cubes](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20E/Cubes) (100/100) ✔
+ * 06. [Palendrom Time](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20E/Palendrom%20Time) (100/100) ✔
 
 
 ##Bulgarian Olympiad 2012
 
 ####BNOI 2012 - Round 2 - Group A (11-12 grade) 
- * А1. [Палачинки]()
- * А2. [Израз]()
- * А3. [Кули]()
+ * 01. [Pancakes]()
+ * 02. [Израз]()
+ * 03. [Towers]()
 
 ####BNOI 2012 - Round 2 - Group B (9-10 grade) 
- * B1. [Автобусни линии]()
- * B2. [Лице]()
- * B3. [Квадрати]()
+ * 01. [Автобусни линии]
+ * 02. [Лице]
+ * 03. [Squares]
 
 ####BNOI 2012 - Round 2 - Group C (7-8 grade)
- * C1. [Династии]()
- * C2. [Суми]()
- * C3. [Дроби]()
+ * 01. [Династии]
+ * 02. [Sums]
+ * 03. [Fractions 2]
 
 ####BNOI 2012 - Round 2 - Group D (6 grade)
- * D1. [Limes]() (100/100) ✔
- * D2. [Message]() (100/100) ✔
- * D3. [Цветни топчета]()
+ * 01. [Limes](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20D/Limes) (100/100) ✔
+ * 02. [Message](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20D/Message) (100/100) ✔
+ * 03. [Цветни топчета]
 
 ####BNOI 2012 - Round 2 - Group E (4-5 grade) 
- * E1. [Lazy]() (100/100) ✔
- * E2. [Транспортни възли]()
- * E3. [Повече]()
+ * 01. [Lazy](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20E/Lazy) (100/100) ✔
+ * 02. [Транспортни възли]
+ * 03. [More]
 
 ####BNOI 2012 - Round 1 - Group B (9-10 grade)
- * B1. [Max Surface]() (100/100) ✔
- * B2. [Sum]() (100/100) ✔
- * B3. [Sum Of Primes]() (100/100) ✔
+ * 01. [Max Surface](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20A%20and%20B/Max%20Surface) (100/100) ✔
+ * 02. [Sum](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20A%20and%20B/Sum) (100/100) ✔
+ * 03. [Sum Of Primes](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20A%20and%20B/Sum%20Of%20Primes) (100/100) ✔
 
 ####BNOI 2012 - Round 1 - Group C (7-8 grade)
- * C1. [Balls]() (100/100) ✔
- * C2. [5-Digit Numbers]() (100/100) ✔
- * C3. [Buses]() (100/100) ✔
+ * 01. [Balls](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20C/Balls) (100/100) ✔
+ * 02. [5-Digit Numbers](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20C/Digit%20Numbers) (100/100) ✔
+ * 03. [Buses](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20C/Buses) (100/100) ✔
 
 ####BNOI 2012 - Round 1 - Group D (6 grade)
- * D1. [FISH GLOBE]()
- * D2. [MINI-POKER]()
- * D3. [LOTTERY]()
+ * 01. [Fish Globe]
+ * 02. [Mini Poker]
+ * 03. [Lottery 2]
 
 ####BNOI 2012 - Round 1 - Group E (4-5 grade)
- * E1. [Picnic]() (100/100) ✔
- * E2. [Lucky Ticket]() (100/100) ✔
- * E3. [Average]() (100/100) ✔
+ * 01. [Picnic](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20E/Picnic) (100/100) ✔
+ * 02. [Lucky Ticket](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20E/Lucky%20Ticket) (100/100) ✔
+ * 03. [Average](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20E/Average) (100/100) ✔
+
+
+##Bulgarian Olympiad 2013
+
+####BNOI 2013 Round 3 - Group A+B (27-28 April 2013)
+ * 01. [Superstitious Black Cats]
+ * 02. [Bank Code]
+ * 03. [Reflatten]
+ * 04. [Land]
+ * 05. [Garden]
+ * 06. [Mice]
+
+
+##Bulgarian Olympiad 2014
+
+####BNOI 2014 Round 3 - Group A+B (26-27 April 2014)
+ * 01. []
+
+####BNOI 2014 Round 3 - Group C (26-27 April 2014)
+ * 01. []
+
+####BNOI 2014 Round 3 - Group D (26-27 April 2014)
+ * 01. []
+
+####BNOI 2014 Round 3 - Group E (26-27 April 2014)
+ * 01. []
