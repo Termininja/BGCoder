@@ -41,9 +41,9 @@ Bulgarian Olympiad
 ##Bulgarian Olympiad 2012
 
 ####BNOI 2012 - Round 2 - Group A (11-12 grade) 
- * 01. [Pancakes]()
- * 02. [Израз]()
- * 03. [Towers]()
+ * 01. [Pancakes]
+ * 02. [Израз]
+ * 03. [Towers]
 
 ####BNOI 2012 - Round 2 - Group B (9-10 grade) 
  * 01. [Автобусни линии]
