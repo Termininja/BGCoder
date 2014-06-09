@@ -30,7 +30,7 @@ Telerik Algo Academy
 ####Telerik Algo Academy @ March 2012
 01. [Numbers]() (100/100) ✔
 02. [Hourglass]() (100/100) ✔
-03. [Shepherd]() (100/100) ✔
+03. [Shepherd]() (100/100) ✔ <sup>+js</sup>
 04. []
 05. []
 06. []
@@ -67,7 +67,7 @@ Telerik Algo Academy
 01. [Носене]
 02. [Гаджето на Ина]
 03. [Най-популярен приятел]
-04. [Salaries]() (100/100) ✔
+04. [Salaries]() (100/100) ✔ <sup>+js</sup>
 05. [Риск печели, риск губи]
 06. [Horse]
 07. [Максимален път]

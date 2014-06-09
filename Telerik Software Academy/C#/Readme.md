@@ -4,44 +4,44 @@ C#
 ##C# Exam 1
 
 ####C# Fundamentals 2011/2012 Part 1 - Sample Exam
- * 1. [Cartesian Coordinate System](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Cartesian%20Coordinate%20System) (100/100) ✔
- * 2. [Miss Cat 2011](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Miss%20Cat%202011) (100/100) ✔
- * 3. [Forest Road](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Forest%20Road) (100/100) ✔
- * 4. [Binary Digits Count](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Binary%20Digits%20Count) (100/100) ✔
- * 5. [Subset Sums](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Subset%20Sums) (100/100) ✔
+ * 1. [Cartesian Coordinate System](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Cartesian%20Coordinate%20System) (100/100) ✔ <sup>+js</sup>
+ * 2. [Miss Cat 2011](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Miss%20Cat%202011) (100/100) ✔ <sup>+js</sup>
+ * 3. [Forest Road](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Forest%20Road) (100/100) ✔ <sup>+js</sup>
+ * 4. [Binary Digits Count](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Binary%20Digits%20Count) (100/100) ✔ <sup>+js</sup>
+ * 5. [Subset Sums](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Subset%20Sums) (100/100) ✔ <sup>+js</sup>
 
 ####C# Fundamentals 2011/2012 Part 1 - Test Exam
- * 1. [Math Expression](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Math%20Expression) (100/100) ✔
- * 2. [Least Majority Multiple](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Least%20Majority%20Multiple) (100/100) ✔
- * 3. [Trapezoid](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Trapezoid) (100/100) ✔
+ * 1. [Math Expression](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Math%20Expression) (100/100) ✔ <sup>+js</sup>
+ * 2. [Least Majority Multiple](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Least%20Majority%20Multiple) (100/100) ✔ <sup>+js</sup>
+ * 3. [Trapezoid](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Trapezoid) (100/100) ✔ <sup>+js</sup>
  * 4. [Odd Number](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Odd%20Number) (100/100) ✔
  * 5. [Fall Down](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Fall%20Down) (100/100) ✔
 
 ####Telerik Academy Exam 1 @ 6 Dec 2011 Morning 
  * 1. [Ship Damage](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Ship%20Damage) (100/100) ✔
  * 2. [Tribonacci](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Tribonacci) (100/100) ✔
- * 3. [Fir Tree](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Fir%20Tree) (100/100) ✔
- * 4. [We All Love Bits!](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/We%20All%20Love%20Bits!) (100/100) ✔
+ * 3. [Fir Tree](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Fir%20Tree) (100/100) ✔ <sup>+js</sup>
+ * 4. [We All Love Bits!](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/We%20All%20Love%20Bits!) (100/100) ✔ <sup>+js</sup>
  * 5. [Pillars](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Pillars) (100/100) ✔
 
 ####Telerik Academy Exam 1 @ 7 Dec 2011 Morning
- * 1. [Fighter Attack](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Fighter%20Attack) (100/100) ✔
- * 2. [Astrological Digits](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Astrological%20Digits) (100/100) ✔
- * 3. [Sand-glass](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Sand-glass) (100/100) ✔
- * 4. [Dancing Bits](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Dancing%20Bits) (100/100) ✔
+ * 1. [Fighter Attack](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Fighter%20Attack) (100/100) ✔ <sup>+js</sup>
+ * 2. [Astrological Digits](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Astrological%20Digits) (100/100) ✔ <sup>+js</sup>
+ * 3. [Sand-glass](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Sand-glass) (100/100) ✔ <sup>+js</sup>
+ * 4. [Dancing Bits](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Dancing%20Bits) (100/100) ✔ <sup>+js</sup>
  * 5. [Lines](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Lines) (100/100) ✔
 
 ####Telerik Academy Exam 1 @ 27 Dec 2012
  * 1. [Next Date](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Next%20Date) (100/100) ✔
  * 2. [Tribonacci Triangle](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Tribonacci%20Triangle) (100/100) ✔
- * 3. [Sheets](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Sheets) (100/100) ✔
+ * 3. [Sheets](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Sheets) (100/100) ✔ <sup>+js</sup>
  * 4. [Carpets](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Carpets) (100/100) ✔
  * 5. [Formula Bit 1](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Formula%20Bit%201) (100/100) ✔
 
 ####Telerik Academy Exam 1 @ 28 Dec 2012
- * 1. [Sevenland Numbers](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Sevenland%20Numbers) (100/100) ✔
- * 2. [A-nacci](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/A-nacci) (100/100) ✔
- * 3. [Excel Columns](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Excel%20Columns) (100/100) ✔
+ * 1. [Sevenland Numbers](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Sevenland%20Numbers) (100/100) ✔ <sup>+js</sup>
+ * 2. [A-nacci](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/A-nacci) (100/100) ✔ <sup>+js</sup>
+ * 3. [Excel Columns](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Excel%20Columns) (100/100) ✔ <sup>+js</sup>
  * 4. [Telerik Logo](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Telerik%20Logo) (100/100) ✔
  * 5. [Bit Ball](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Bit%20Ball) (100/100) ✔
 
@@ -49,7 +49,7 @@ C#
  * 1. [Triple Rotation of Digits](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Triple%20Rotation%20of%20Digits) (100/100) ✔
  * 2. [Quadronacci Rectangle](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Quadronacci%20Rectangle) (100/100) ✔
  * 3. [Poker](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Poker) (100/100) ✔
- * 4. [UK Flag](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/UK%20Flag) (100/100) ✔
+ * 4. [UK Flag](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/UK%20Flag) (100/100) ✔ <sup>+js</sup>
  * 5. [Angry Bits](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Angry%20Bits) (100/100) ✔
 
 ####Telerik Academy Exam 1 @ 6 December 2013 Evening
@@ -84,14 +84,14 @@ C#
  * 1. [Coffee Machine](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Coffee%20Machine) (100/100) ✔
  * 2. [Drunken Numbers](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Drunken%20Numbers) (100/100) ✔
  * 3. [Bulls and Cows](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Bulls%20and%20Cows) (100/100) ✔
- * 4. [Fire](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Fire) (100/100) ✔
+ * 4. [Fire](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Fire) (100/100) ✔ <sup>+js</sup>
  * 5. [Neurons](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Neurons) (100/100) ✔
 
 ####Telerik Academy Exam 1 @ 24 June 2013 Evening
- * 1. [Garden](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Garden) (100/100) ✔
+ * 1. [Garden](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Garden) (100/100) ✔ <sup>+js</sup>
  * 2. [Secrets](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Secrets) (100/100) ✔
  * 3. [Card Wars](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Card%20Wars) (100/100) ✔
- * 4. [Bat'Goiko Tower]() (100/100) ✔
+ * 4. [Bat'Goiko Tower](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Bat%27Goiko%20Tower) (100/100) ✔ <sup>+js</sup>
  * 5. [Bittris](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Bittris) (100/100) ✔
 
 
@@ -155,7 +155,7 @@ C#
 
 ####C# Part 2 - 2013/2014 @ 14 Sept 2013 - Morning
  * 1. [Multiverse Communication](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%202/Multiverse%20Communication) (100/100) ✔
- * 2. [Magic Words](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%202/Magic%20Words) (100/100) ✔
+ * 2. [Magic Words](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%202/Magic%20Words) (100/100) ✔ <sup>+js</sup>
  * 3. [Tron 3D](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%202/Tron%203D) (100/100) ✔
  * 4. [Decode and Decrypt](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%202/Decode%20and%20Decrypt) (100/100) ✔
  * 5. [Featuring with Grisko]
