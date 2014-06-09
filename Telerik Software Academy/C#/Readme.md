@@ -26,7 +26,7 @@ C#
 
 ####Telerik Academy Exam 1 @ 7 Dec 2011 Morning
  * 1. [Fighter Attack]() (100/100) ✔
- * 2. [Astrological Digits]() (100/100) ✔
+ * 2. [Astrological Digits](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Astrological%20Digits) (100/100) ✔
  * 3. [Sand-glass]() (100/100) ✔
  * 4. [Dancing Bits]() (100/100) ✔
  * 5. [Lines]() (100/100) ✔
@@ -40,7 +40,7 @@ C#
 
 ####Telerik Academy Exam 1 @ 28 Dec 2012
  * 1. [Sevenland Numbers]() (100/100) ✔
- * 2. [A-nacci]() (100/100) ✔
+ * 2. [A-nacci](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/A-nacci) (100/100) ✔
  * 3. [Excel Columns]() (100/100) ✔
  * 4. [Telerik Logo]() (100/100) ✔
  * 5. [Bit Ball]() (100/100) ✔
@@ -50,7 +50,7 @@ C#
  * 2. [Quadronacci Rectangle]() (100/100) ✔
  * 3. [Poker]() (100/100) ✔
  * 4. [UK Flag]() (100/100) ✔
- * 5. [Angry Bits]() (100/100) ✔
+ * 5. [Angry Bits](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Angry%20Bits) (100/100) ✔
 
 ####Telerik Academy Exam 1 @ 6 December 2013 Evening
  * 1. [2-4-8]
@@ -68,7 +68,7 @@ C#
 
 ####Telerik Academy Exam 1 @ 5 December 2013 Evening
  * 1.[Peace of Cake]() (100/100) ✔
- * 2.[Angry Female GPS]() (100/100) ✔
+ * 2.[Angry Female GPS](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Angry%20Female%20GPS) (100/100) ✔
  * 3.[Ones and Zeros]() (100/100) ✔
  * 4.[Eggcelent]() (100/100) ✔
  * 5.[Na Baba mi Smetalnika]() (100/100) ✔
