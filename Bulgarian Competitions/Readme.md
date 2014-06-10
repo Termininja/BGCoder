@@ -42,7 +42,7 @@ Bulgarian Olympiad
 
 ####BNOI 2012 - Round 2 - Group A (11-12 grade) 
  * 01. [Pancakes]
- * 02. [Израз]
+ * 02. [Expression]
  * 03. [Towers]
 
 ####BNOI 2012 - Round 2 - Group B (9-10 grade) 
@@ -51,7 +51,7 @@ Bulgarian Olympiad
  * 03. [Squares]
 
 ####BNOI 2012 - Round 2 - Group C (7-8 grade)
- * 01. [Династии]
+ * 01. [Dynasties]
  * 02. [Sums]
  * 03. [Fractions 2]
 
