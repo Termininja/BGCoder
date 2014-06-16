@@ -134,27 +134,27 @@ Telerik Algo Academy
 02. [DogeCoin]
 03. [Food]
 04. [Време за битове]
-05. [Табуретки]
+05. [Stools]
 06. [Ninja]
 07. [Движи се с кеф]
 08. [Invasion]
 
 ####Telerik Algo Academy @ March 2014 (Geometry)
-01. [Дърпане]
+01. [Pull]() (100/100) ✔ <sup>+js</sup>
 02. [Изрезки]
 03. [Fence]
 04. [Highway]
 05. [Black Hole]
 
 ####Telerik Algo Academy @ April 2014 (NOI Preparation)
-01. [Цветни линии]
+01. [Colored Lines]
 02. [Няма условие]
 03. [На Мооре-то]
-04. [Двете кули]
+04. [The Two Towers]
 05. [Message]
 06. [Droid]
 07. [Пътуващ във времето търговец]
-08. [Предмети, предмети]
+08. [Items, Items]
 09. [Matrotron]
 10. [NOI]
-11. [Изненада за кралицата]
+11. [Surprise for the Queen]
