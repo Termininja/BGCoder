@@ -1,4 +1,2 @@
-BGCoder
+[BGCoder](http://bgcoder.com/Contests/)
 =======
-
-http://bgcoder.com/Contests/

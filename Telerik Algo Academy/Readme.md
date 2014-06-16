@@ -1,4 +1,4 @@
-Telerik Algo Academy
+[Telerik Algo Academy](http://bgcoder.com/Contests/List/ByCategory/29/Telerik-Algo-Academy)
 ====================
 
 ##Telerik Algo Academy 2011/2012

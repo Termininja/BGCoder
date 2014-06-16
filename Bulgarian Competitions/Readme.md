@@ -1,4 +1,4 @@
-Bulgarian Olympiad
+[Bulgarian Olympiad](http://bgcoder.com/Contests/List/ByCategory/32/Bulgarian-Olympiad)
 ==================
 
 ##Bulgarian Olympiad 2011
