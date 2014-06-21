@@ -53,15 +53,15 @@ C#
  * 5. [Angry Bits](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Angry%20Bits) (100/100) ✔
 
 ####Telerik Academy Exam 1 @ 6 December 2013 Evening
- * 1. [2-4-8]
- * 2. [Nightmare on Code Street]
+ * 1. [2-4-8](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/2-4-8) (100/100) ✔
+ * 2. [Nightmare on Code Street](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Nightmare%20On%20Code%20Street) (100/100) ✔
  * 3. [Enigmanation]
  * 4. [Kaspichania Boats]
  * 5. [Game of Page]
 
 ####Telerik Academy Exam 1 @ 6 December 2013 Morning
- * 1. [3-6-9]
- * 2. [The Horror]
+ * 1. [3-6-9](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/3-6-9) (100/100) ✔
+ * 2. [The Horror](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/The%20Horror) (100/100) ✔
  * 3. [X Expression]
  * 4. [Diamond Trolls]
  * 5. [Warhead]
