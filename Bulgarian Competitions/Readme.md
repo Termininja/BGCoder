@@ -68,7 +68,7 @@
 ####BNOI 2012 - Round 1 - Group B (9-10 grade)
  * 01. [Max Surface](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20A%20and%20B/Max%20Surface) (100/100) ✔ <sup>+js</sup>
  * 02. [Sum](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20A%20and%20B/Sum) (100/100) ✔
- * 03. [Sum Of Primes](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20A%20and%20B/Sum%20Of%20Primes) (100/100) ✔ <sup>+js</sup>
+ * 03. [Sum of Primes](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20A%20and%20B/Sum%20of%20Primes) (100/100) ✔ <sup>+js</sup>
 
 ####BNOI 2012 - Round 1 - Group C (7-8 grade)
  * 01. [Balls](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20C/Balls) (100/100) ✔ <sup>+js</sup>
