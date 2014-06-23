@@ -26,7 +26,7 @@
  * 02. [Cipher]
  * 03. [Lottery]
  * 04. [Points](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20D/Points) (100/100) ✔ <sup>+js</sup>
- * 05. [Triangle Of Numbers](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20D/Triangle%20Of%20Numbers) (100/100) ✔
+ * 05. [Triangle of Numbers](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20D/Triangle%20of%20Numbers) (100/100) ✔
  * 06. [СУПЕР ПРОСТИ]
 
 ####BNOI 2011 - Round 3 - Group E (4-5 grade)
