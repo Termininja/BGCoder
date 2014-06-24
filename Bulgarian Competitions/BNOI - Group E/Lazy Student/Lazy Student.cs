@@ -1,7 +1,7 @@
 using System;
 using System.Text;
 
-class Lazy
+class LazyStudent
 {
     static void Main()
     {
