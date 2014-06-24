@@ -77,7 +77,7 @@
 
 ####BNOI 2012 - Round 1 - Group D (6 grade)
  * 01. [Fish Globe]
- * 02. [Mini Poker]
+ * 02. [Mini Poker](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20D/Mini%20Poker) (100/100) ✔ <sup>+js</sup>
  * 03. [Lottery](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20D/Lottery) (100/100) ✔ <sup>+js</sup>
 
 ####BNOI 2012 - Round 1 - Group E (4-5 grade)
