@@ -61,9 +61,9 @@
  * 03. [Цветни топчета]
 
 ####BNOI 2012 - Round 2 - Group E (4-5 grade) 
- * 01. [Lazy](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20E/Lazy) (100/100) ✔
- * 02. [Транспортни възли]
- * 03. [More]
+ * 01. [Lazy Student](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20E/Lazy%20Student) (100/100) ✔
+ * 02. [Transport Nodes](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20E/Transport%20Nodes) (100/100) ✔ <sup>+js</sup>
+ * 03. [More](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20E/More) (100/100) ✔ <sup>+js</sup>
 
 ####BNOI 2012 - Round 1 - Group B (9-10 grade)
  * 01. [Max Surface](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20A%20and%20B/Max%20Surface) (100/100) ✔ <sup>+js</sup>
