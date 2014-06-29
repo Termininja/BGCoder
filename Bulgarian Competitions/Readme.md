@@ -58,7 +58,7 @@
 ####BNOI 2012 - Round 2 - Group D (6 grade)
  * 01. [Limes](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20D/Limes) (100/100) ✔ <sup>+js</sup>
  * 02. [Message](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20D/Message) (100/100) ✔
- * 03. [Цветни топчета]
+ * 03. [Marbles](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20D/Marbles) (100/100) ✔ <sup>+js</sup>
 
 ####BNOI 2012 - Round 2 - Group E (4-5 grade) 
  * 01. [Lazy Student](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20E/Lazy%20Student) (100/100) ✔
