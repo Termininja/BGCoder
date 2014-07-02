@@ -7,7 +7,7 @@ function solve(str) {
     var len = minMax[1] - min + 1;
     var result = [];
     for (var a = 0; a < arr.length; a++) {
-        var start = ((min % arr[a] == 0) ? 0 : arr[a] - min % arr[a]);
+        var start = (min % arr[a] == 0) ? 0 : arr[a] - min % arr[a];
         for (var i = start; i < len; i += +arr[a]) {
             result[i] = (result[i]) ? result[i] + 1 : 1;
         }

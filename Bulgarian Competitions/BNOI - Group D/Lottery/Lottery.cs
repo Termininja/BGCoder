@@ -13,7 +13,7 @@ class Lottery
         int[] result = new int[len];
         for (int a = 0; a < A.Length; a++)
         {
-            int start = ((min % A[a] == 0) ? 0 : A[a] - min % A[a]);
+            int start = (min % A[a] == 0) ? 0 : A[a] - min % A[a];
             for (int i = start; i < len; i += A[a])
             {
                 result[i]++;
