@@ -61,7 +61,7 @@ class Segments
                 (a * b >= 0f) && (a * b <= 1f)) count++;
         }
 
-        // Is the current count the max count
+        // If the current count is the max count
         if (count >= maxCount) maxCount = count;
     }
 }
