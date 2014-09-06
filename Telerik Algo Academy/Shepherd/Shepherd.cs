@@ -7,22 +7,22 @@ class Shepherd
     {
         string[] input = Console.ReadLine().Split(' ');
         int numberOfFences = int.Parse(input[0]);
-        int numberOfsheep = int.Parse(input[1]);
+        int numberOfSheep = int.Parse(input[1]);
 
         List<double[]> fences = new List<double[]>();
         for (int f = 0; f < numberOfFences; f++)
         {
             string[] fence = Console.ReadLine().Split(' ');
-            fences.Add(new double[] { 
-                double.Parse(fence[0]), 
-                double.Parse(fence[1]), 
-                double.Parse(fence[2]), 
+            fences.Add(new double[] {
+                double.Parse(fence[0]),
+                double.Parse(fence[1]),
+                double.Parse(fence[2]),
                 double.Parse(fence[3])
             });
         }
 
         int count = 0;
-        for (int s = 0; s < numberOfsheep; s++)
+        for (int s = 0; s < numberOfSheep; s++)
         {
             string[] sheep = Console.ReadLine().Split(' ');
             double Ax = double.Parse(sheep[0]);
