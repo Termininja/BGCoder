@@ -172,7 +172,7 @@ C#
  * 2. [Bunny Factory]
  * 3. [Patterns](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%202/Patterns) (100/100) ✔
  * 4. [Variable Length Codes](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%202/Variable%20Length%20Codes) (100/100) ✔
- * 5. [Help Doge]
+ * 5. [Help Doge](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%202/Help%20Doge) (100/100) ✔
 
 ####C# Part 2 - 2013/2014 @ 24 Jan 2014 - Evening
  * 1. [Strange Land Numbers](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%202/Strange%20Land%20Numbers) (100/100) ✔
