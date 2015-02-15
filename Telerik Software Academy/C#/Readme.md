@@ -180,34 +180,3 @@ C#
  * 3. [Digits]
  * 4. [Relevance Index]
  * 5. [Doge Coin]
-
-
-##C# Final Exam
-
-####C# Fundamentals 2011/2012 Part 3 - Sample Exam
- * 1. [Maximal Path]
- * 2. [Shopping Center]
- * 3. [Friends in Need]
- * 4. [Cubes]
- * 5. [Horse Matrix]
-
-####C# Fundamentals 2011/2012 Part 3 - Test Exam
- * 1. [Events]
- * 2. [Risk Wins, Risk Loses]
- * 3. [Validate HTML]
- * 4. [Reach N]
- * 5. [Connect All Cities]
-
-####Telerik Academy Exam 3 @ 26 March 2012
- * 1. [Tasks]
- * 2. [Terran]
- * 3. [Play with Krisko]
- * 4. [Free Content]
- * 5. [Nakov Number]
-
-####Telerik Academy Exam 3 @ 27 March 2012
- * 1. [Protoss]
- * 2. [Most Common]
- * 3. [Phonebook]
- * 4. [LinkedOut]
- * 5. [Buy Graphs]
