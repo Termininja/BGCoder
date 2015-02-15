@@ -84,29 +84,3 @@
  * 01. [Picnic](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20E/Picnic) (100/100) ✔ <sup>+js</sup>
  * 02. [Lucky Ticket](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20E/Lucky%20Ticket) (100/100) ✔ <sup>+js</sup>
  * 03. [Average](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20E/Average) (100/100) ✔ <sup>+js</sup>
-
-
-##Bulgarian Olympiad 2013
-
-####BNOI 2013 Round 3 - Group A+B (27-28 April 2013)
- * 01. [Superstitious Black Cats]
- * 02. [Bank Code]
- * 03. [Reflatten]
- * 04. [Land]
- * 05. [Garden]
- * 06. [Mice]
-
-
-##Bulgarian Olympiad 2014
-
-####BNOI 2014 Round 3 - Group A+B (26-27 April 2014)
- * 01. []
-
-####BNOI 2014 Round 3 - Group C (26-27 April 2014)
- * 01. []
-
-####BNOI 2014 Round 3 - Group D (26-27 April 2014)
- * 01. []
-
-####BNOI 2014 Round 3 - Group E (26-27 April 2014)
- * 01. []
