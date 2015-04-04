@@ -5,7 +5,6 @@
         public WeaponrySkill()
             : base(0, 0, 0)
         {
-
         }
     }
 }

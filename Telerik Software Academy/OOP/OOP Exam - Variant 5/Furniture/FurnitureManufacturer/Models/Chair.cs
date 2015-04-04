@@ -14,9 +14,7 @@
 
         public override string ToString()
         {
-            var result = base.ToString() + string.Format(", Legs: {0}", this.NumberOfLegs);
-
-            return result;
+            return base.ToString() + string.Format(", Legs: {0}", this.NumberOfLegs);
         }
     }
 }

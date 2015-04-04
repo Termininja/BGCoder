@@ -1,7 +1,5 @@
 ﻿namespace Infestation
 {
-    using System;
-
     public abstract class Supplement : ISupplement
     {
         public Supplement(int powerEffect, int healthEffect, int aggressionEffect)
@@ -19,7 +17,6 @@
 
         public virtual void ReactTo(ISupplement otherSupplement)
         {
-
         }
     }
 }

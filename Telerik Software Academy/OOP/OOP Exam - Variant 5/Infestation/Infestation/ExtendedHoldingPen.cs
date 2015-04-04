@@ -26,8 +26,7 @@
 
             if (supplement != null)
             {
-                var targetId = commandWords[2];
-                var targetUnit = this.GetUnit(targetId);
+                var targetUnit = this.GetUnit(commandWords[2]);
                 targetUnit.AddSupplement(supplement);
             }
         }
@@ -48,20 +47,19 @@
         protected override void ExecuteInsertUnitCommand(string[] commandWords)
         {
             Unit unit = null;
-            var unitId = commandWords[2];
             switch (commandWords[1])
             {
                 case "Tank":
-                    unit = new Tank(unitId);
+                    unit = new Tank(commandWords[2]);
                     break;
                 case "Marine":
-                    unit = new Marine(unitId);
+                    unit = new Marine(commandWords[2]);
                     break;
                 case "Parasite":
-                    unit = new Parasite(unitId);
+                    unit = new Parasite(commandWords[2]);
                     break;
                 case "Queen":
-                    unit = new Queen(unitId);
+                    unit = new Queen(commandWords[2]);
                     break;
                 default:
                     break;
