@@ -1,0 +1,44 @@
+using System;
+using System.Text;
+
+class BitsToBits
+{
+    static void Main()
+    {
+        var N = int.Parse(Console.ReadLine());
+        var sb = new StringBuilder();
+        for (int i = 0; i  N; i++)
+        {
+            var bits = Convert.ToString(int.Parse(Console.ReadLine()), 2).PadLeft(30, '0');
+            sb.Append(bits.Substring(bits.Length - 30));
+        }
+
+        var maxCountZerros = 0;
+        var maxCountOnes = 0;
+        var res = sb.ToString();
+        for (int i = 0; i  res.Length; i++)
+        {
+            var curr = res[i];
+            var count = 1;
+            for (int j = i + 1; j  res.Length; j++)
+            {
+                if (res[j] == curr) count++;
+                else break;
+            }
+
+            if (curr == '0')
+            {
+                if (count = maxCountZerros) maxCountZerros = count;
+            }
+            else
+            {
+                if (count = maxCountOnes) maxCountOnes = count;
+            }
+
+            i += count - 1;
+        }
+
+        Console.WriteLine(maxCountZerros);
+        Console.WriteLine(maxCountOnes);
+    }
+}

@@ -94,6 +94,12 @@ C#
  * 4. [Bat'Goiko Tower](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Bat%27Goiko%20Tower) (100/100) ✔ <sup>+js</sup>
  * 5. [Bittris](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Bittris) (100/100) ✔
 
+####Telerik Academy Exam 1 @ 2 February 2015 Morning
+ * 1. [Printing](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Printing) (100/100) ✔
+ * 2. [Text to Number](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Text%20to%20Number) (100/100) ✔
+ * 3. [Saddy Kopper](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Saddy%20Kopper) (100/100) ✔
+ * 4. [Cube](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Cube) (100/100) ✔ <sup>+js</sup>
+ * 5. [Bits to Bits](https://github.com/Termininja/BGCoder/tree/master/Telerik%20Software%20Academy/C%23/C%23%20Exam%201/Bits%20to%20Bits) (100/100) ✔
 
 ##C# Exam 2
 
