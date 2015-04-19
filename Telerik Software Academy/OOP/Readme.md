@@ -19,3 +19,7 @@
 ###<a href="https://github.com/Termininja/BGCoder/raw/master/Telerik%20Software%20Academy/OOP/OOP%20Exam%20-%20Variant%205/OOP%20Exam%20-%20Variant%205.docx">Variant 5: 05 March 2014</a>
   * **Problem 1.** Furniture
   * **Problem 2.** Infestation
+  
+###<a href="https://github.com/Termininja/BGCoder/raw/master/Telerik%20Software%20Academy/OOP/OOP%20Exam%20-%20Variant%206/OOP%20Exam%20-%20Variant%206.docx">Variant 5: 06 April 2015</a>
+  * **Problem 1.** Cosmetics Shop
+  * **Problem 2.** Army of Creatures
