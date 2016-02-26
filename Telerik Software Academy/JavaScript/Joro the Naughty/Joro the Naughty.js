@@ -14,8 +14,8 @@ function solve(args) {
     var jumps = 0;
     var sum = R * M + C + 1;
     while (true) {
-        for (var i = 2; i < args.length; i++) {
-            var jump = args[i].split(' ');
+        for (var j = 2; j < args.length; j++) {
+            var jump = args[j].split(' ');
             R += +jump[0];
             C += +jump[1];
             if (R >= 0 && R < N && C >= 0 && C < +M) {
