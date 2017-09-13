@@ -1,9 +1,13 @@
+<p align="center"><a href="http://academy.telerik.com/"><img src="http://telerikacademy.com/Content/Images/Header.png" /></a></p>
+
+---
+
 [Telerik Algo Academy](http://bgcoder.com/Contests/List/ByCategory/29/Telerik-Algo-Academy)
 ====================
 
-##Telerik Algo Academy 2011/2012
+## Telerik Algo Academy 2011/2012
 
-####Telerik Algo Academy @ October 2012
+#### Telerik Algo Academy @ October 2012
 01. [Binary Passwords]() (100/100) ✔
 02. [Color Rabbits]
 03. [Делители]
@@ -15,7 +19,7 @@
 09. [Двоични дървеса]
 10. [Роботизирана Зомби Камила]
 
-####Telerik Algo Academy @ April 2012
+#### Telerik Algo Academy @ April 2012
 01. [Tribonachi]() (100/100) ✔
 02. [Super Sum]() (100/100) ✔
 03. [Parentheses]
@@ -27,7 +31,7 @@
 09. [Architect]
 10. [Room]
 
-####Telerik Algo Academy @ March 2012
+#### Telerik Algo Academy @ March 2012
 01. [Numbers]() (100/100) ✔
 02. [Hourglass]() (100/100) ✔
 03. [Shepherd]() (100/100) ✔ <sup>+js</sup>
@@ -40,9 +44,9 @@
 10. [Кеш памет]
 
 
-##Telerik Algo Academy 2012/2013
+## Telerik Algo Academy 2012/2013
 
-####Telerik Algo Academy @ April 2013
+#### Telerik Algo Academy @ April 2013
 01. [B.N.E.S]
 02. [Зарове на хижа]
 03. [Купонджията Ивайло]
@@ -53,7 +57,7 @@
 08. [Stringland Matcher]
 09. [Broken Traffic Light]
 
-####Telerik Algo Academy @ March 2013
+#### Telerik Algo Academy @ March 2013
 01. [Гладният Том]
 02. [Разходка в парка]
 03. [Търговия на гравитация]
@@ -63,7 +67,7 @@
 07. [Бай Иван]
 08. [Преселване]
 
-####Telerik Algo Academy @ February 2013
+#### Telerik Algo Academy @ February 2013
 01. [Носене]
 02. [Гаджето на Ина]
 03. [Най-популярен приятел]
@@ -75,7 +79,7 @@
 09. [Ластици]
 10. [Енерго]
 
-####Telerik Algo Academy @ January 2013
+#### Telerik Algo Academy @ January 2013
 01. [Whole Points]() (100/100) ✔
 02. [Four Dimensional Speed]() (100/100) ✔
 03. [Black holes]
@@ -84,7 +88,7 @@
 06. [Шублерпици]
 07. [Пирати на Минковите]
 
-####Telerik Algo Academy @ November 2012
+#### Telerik Algo Academy @ November 2012
 01. [Sorting]
 02. [Tasks]
 03. [Pipes]
@@ -97,9 +101,9 @@
 10. [Events]
 
 
-##Telerik Algo Academy 2013/2014
+## Telerik Algo Academy 2013/2014
 
-####Telerik Algo Academy @ October 2013
+#### Telerik Algo Academy @ October 2013
 01. [Laziness]() (100/100) ✔
 02. [Goro]() (100/100) ✔
 03. [Algograms]() (100/100) ✔
@@ -110,7 +114,7 @@
 08. [Table]
 09. [Cookie]
 
-####Telerik Algo Academy @ November 2013
+#### Telerik Algo Academy @ November 2013
 01. [Бутане]
 02. [Get Coin]() (100/100) ✔
 03. [Дартс антика]
@@ -120,7 +124,7 @@
 07. [Наместване]
 08. [Четностване]
 
-####Telerik Algo Academy @ January 2014
+#### Telerik Algo Academy @ January 2014
 01. [Test]() (100/100) ✔
 02. [Tomcats]() (100/100) ✔
 03. [Flu]
@@ -129,7 +133,7 @@
 06. [Пак ли]
 07. [Guess the Name]
 
-####Telerik Algo Academy @ February 2014 (Dynamic Programming)
+#### Telerik Algo Academy @ February 2014 (Dynamic Programming)
 01. [Quadronacci]() (100/100) ✔
 02. [DogeCoin]
 03. [Food]
@@ -139,14 +143,14 @@
 07. [Движи се с кеф]
 08. [Invasion]
 
-####Telerik Algo Academy @ March 2014 (Geometry)
+#### Telerik Algo Academy @ March 2014 (Geometry)
 01. [Pull]() (100/100) ✔ <sup>+js</sup>
 02. [Изрезки]
 03. [Fence]
 04. [Highway]
 05. [Black Hole]
 
-####Telerik Algo Academy @ April 2014 (NOI Preparation)
+#### Telerik Algo Academy @ April 2014 (NOI Preparation)
 01. [Colored Lines]
 02. [Няма условие]
 03. [На Мооре-то]
