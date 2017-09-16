@@ -60,7 +60,7 @@
     <Compile Include="WorldObjects\Locations\Mine.cs" />
     <Compile Include="WorldObjects\Persons\Merchant.cs" />
     <Compile Include="WorldObjects\Persons\Person.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="TradeAndTravel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="WorldObjects\Persons\Shopkeeper.cs" />
     <Compile Include="WorldObjects\Locations\Town.cs" />
