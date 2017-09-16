@@ -1,7 +1,3 @@
-<p align="center"><a href="http://academy.telerik.com/"><img src="http://telerikacademy.com/Content/Images/Header.png" /></a></p>
-
----
-
 ## Bulgarian Olympiad 2011
 
 #### BNOI 2011 - Round 3 - Group A and B (9-12 grade)
