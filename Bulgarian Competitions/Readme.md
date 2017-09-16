@@ -9,29 +9,15 @@
 
 #### BNOI 2011 - Round 3 - Group A and B (9-12 grade)
  * 01. [Segments](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20A%20and%20B/Segments) (100/100) ✔ <sup>+js</sup>
- * 02. [Labyrinth]
- * 03. [Fukushima]
- * 04. [Happy Whelp]
- * 05. [Medians]
- * 06. [Lakes]
- * 07. [Frog]
- * 08. [Particles]
 
 #### BNOI 2011 - Round 3 - Group C (7-8 grade) 
  * 01. [Clock](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20C/Clock) (100/100) ✔ <sup>+js</sup>
- * 02. [Fractions]
- * 03. [Triangles]
- * 04. [Rectangles]
- * 05. [ЗАРЕЖДАНЕ С ГОРИВО]
- * 06. [System Administrators]
 
 #### BNOI 2011 - Round 3 - Group D (6 grade)
  * 01. [Right Word](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20D/Right%20Word) (100/100) ✔ <sup>+js</sup>
- * 02. [Cipher]
  * 03. [Lottery](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20D/Lottery) (100/100) ✔ <sup>+js</sup>
  * 04. [Points](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20D/Points) (100/100) ✔ <sup>+js</sup>
  * 05. [Triangle of Numbers](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20D/Triangle%20of%20Numbers) (100/100) ✔
- * 06. [СУПЕР ПРОСТИ]
 
 #### BNOI 2011 - Round 3 - Group E (4-5 grade)
  * 01. [House](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20E/House) (100/100) ✔ <sup>+js</sup>
@@ -43,21 +29,6 @@
 
 
 ## Bulgarian Olympiad 2012
-
-#### BNOI 2012 - Round 2 - Group A (11-12 grade) 
- * 01. [Pancakes]
- * 02. [Expression]
- * 03. [Towers]
-
-#### BNOI 2012 - Round 2 - Group B (9-10 grade) 
- * 01. [Автобусни линии]
- * 02. [Лице]
- * 03. [Squares]
-
-#### BNOI 2012 - Round 2 - Group C (7-8 grade)
- * 01. [Dynasties]
- * 02. [Sums]
- * 03. [Fractions 2]
 
 #### BNOI 2012 - Round 2 - Group D (6 grade)
  * 01. [Limes](https://github.com/Termininja/BGCoder/tree/master/Bulgarian%20Competitions/BNOI%20-%20Group%20D/Limes) (100/100) ✔ <sup>+js</sup>
